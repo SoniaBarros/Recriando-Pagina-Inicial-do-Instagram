@@ -1,2 +1,2 @@
 # Recriando-Pagina-Inicial-do-Instagram
-Recriando a página inicial do Instagram.
+Repositorio criado para o Desafio de Projeto - Recriando a Página Inicial do Instagram.
